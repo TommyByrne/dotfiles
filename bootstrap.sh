@@ -18,7 +18,7 @@ set -e
 # ============================================================
 # CONFIG — edit this once before pushing to GitHub
 # ============================================================
-DOTFILES_REPO="git@github.com:https://github.com/TommyByrne/dotfiles.git"   # ← change this
+DOTFILES_REPO="git@github.com:YOUR-USERNAME/dotfiles.git"   # ← change this
 DOTFILES_DIR="$HOME/Developer/dotfiles"
 
 # ============================================================
